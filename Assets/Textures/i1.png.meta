@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: fb40a20e332ddd041a91440aa7de2c0b
+timeCreated: 1479239979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: i1_0
+    21300002: i1_1
+    21300004: i1_2
+    21300006: i1_3
+    21300008: i1_4
+    21300010: i1_5
+    21300012: i1_6
+    21300014: i1_7
+    21300016: i1_8
+    21300018: i1_9
+    21300020: i1_10
+    21300022: i1_11
+    21300024: i1_12
+    21300026: i1_13
+    21300028: i1_14
+    21300030: i1_15
+    21300032: i1_16
+    21300034: i1_17
+    21300036: i1_18
+    21300038: i1_19
+    21300040: i1_20
+    21300042: i1_21
+    21300044: i1_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: i1_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 282
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 309
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 275
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 40
+        width: 768
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 217
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 220
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 212
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 185
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 172
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 141
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 46
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 50
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 52
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i1_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
